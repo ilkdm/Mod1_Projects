@@ -1,5 +1,5 @@
 # Mod1_Projects
-**This repository is created for storing  showcasing the projects completed in the module 1 at Spiced Academy Data Analytics bootcamp.<br>**
+**This repository is created for storing  / showcasing the projects completed in the module 1 at Spiced Academy Data Analytics bootcamp.<br>**
 
 - First project is completed together with *Pei* on Data visualization.
   - The data is collected via online survey on Plant Ownership.
